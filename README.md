@@ -1,6 +1,6 @@
 # SimpleCaptcha 求解器
 
-[![宣传图](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/simplecaptcha)
+[![宣传图](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/products/web-unlocker/captcha-solver/simplecaptcha)
 
 使用 Bright Data 先进的 CAPTCHA 求解技术轻松绕过 SimpleCaptcha。借助机器学习算法、[自动 IP 轮换](https://www.bright.cn/solutions/rotating-proxies)以及强大的代理基础设施，确保持续并稳定地访问目标站点。
 
